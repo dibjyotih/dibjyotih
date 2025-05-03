@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibjyotih" alt="dibjyotih" /></a> </p>
 
-- 🔭 I’m currently working on **Reactjs and Postgres**
+- 🔭 I’m currently working on **Reactjs and PostgreSQL**
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
 
