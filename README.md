@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dibjyotihota@gmail.com**
 
-- ⚡ Fun fact **Always one step back from success cause its a myth!**
+- ⚡ Fun fact **Always one step behind success cause its a myth!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
